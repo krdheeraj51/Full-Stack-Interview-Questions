@@ -18,7 +18,7 @@ Answer: HTML5 introduced several new features that enhance web development, maki
 7. **Drag and Drop API** – Simplifies drag-and-drop functionality for web applications.
 8. **Form Enhancements** – New input types like `email`, `date`, `number`, and `range` improve user experience.
 
-### 4. What is difference between <div> and <span>?
+### 4. What is difference between `<div>` and `<span>`?
 Answer: The `<div>` and `<span>` elements in HTML serve different purposes:
 
 1. **`<div>` (Block-level element)**:
